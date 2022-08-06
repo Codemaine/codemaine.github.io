@@ -164,13 +164,10 @@ body.dark-theme {
   border-radius: 50%;
   overflow: hidden;
   display: flex;
-  align-items: flex-end;
   justify-content: center;
 }
 
-.profile__perfil img {
-  width: 75px;
-}
+
 
 .profile__border {
   border: 3.5px solid var(--first-color);
@@ -511,9 +508,7 @@ body.dark-theme {
     width: 120px;
     height: 120px;
   }
-  .profile__perfil img {
-    width: 90px;
-  }
+
   .profile__profession {
     margin-bottom: 1.5rem;
   }
